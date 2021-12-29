@@ -12,7 +12,7 @@ Computer Engineering. 🚵🏊 Active sport participiant, ☕ coffee adept.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/malokhvii-eduard/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/EduardMalokhvii)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/malokhvii_eduard)
-[![Gmail](https://img.shields.io/badge/malokhvii.ee@gmail.com-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:malokhvii.ee@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:malokhvii.ee@gmail.com)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=flat)](https://join.skype.com/invite/gzHb9cYTi0A1)
 <!-- markdownlint-enable MD013 -->
 
