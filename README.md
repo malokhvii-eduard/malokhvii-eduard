@@ -9,7 +9,6 @@ Computer Engineering. 🚵🏊 Active sport participiant, ☕ coffee adept.
 👋 Feel free to contact me with questions and suggestions.
 
 <!-- markdownlint-disable MD013 -->
-![Visits](https://badges.pufler.dev/visits/malokhvii-eduard/malokhvii-eduard)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/malokhvii-eduard/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/EduardMalokhvii)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/malokhvii_eduard)
