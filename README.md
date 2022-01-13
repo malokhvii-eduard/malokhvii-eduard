@@ -54,7 +54,3 @@ Computer Engineering. 🚵🏊 Active sport participiant, ☕ coffee adept.
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=flat)
 <!-- markdownlint-enable MD013 -->
-
----
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malokhvii-eduard&langs_count=8&layout=compact)
