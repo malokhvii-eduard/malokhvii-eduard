@@ -6,12 +6,12 @@ ci:
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.1.0
+    rev: v4.3.0
     hooks:
       - id: trailing-whitespace
       - id: end-of-file-fixer
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.30.0
+    rev: v0.31.1
     hooks:
       - id: markdownlint
         name: check markdown
@@ -21,7 +21,7 @@ repos:
       - id: yamllint
         name: check yaml
   - repo: https://github.com/alessandrojcm/commitlint-pre-commit-hook
-    rev: v7.0.1
+    rev: v8.0.0
     hooks:
       - id: commitlint
         name: check commit
