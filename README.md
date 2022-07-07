@@ -27,6 +27,7 @@ photography enthusiast.
 ![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff&style=flat)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000?logo=datagrip&logoColor=fff&style=flat)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windowsterminal&logoColor=fff&style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=fff&style=flat)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
