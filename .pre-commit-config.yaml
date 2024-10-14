@@ -1,17 +1,17 @@
 ---
-default_stages: [commit]
+default_stages: [pre-commit]
 
 ci:
   skip: [commitlint]
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: v5.0.0
     hooks:
       - id: trailing-whitespace
       - id: end-of-file-fixer
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.41.0
+    rev: v0.42.0
     hooks:
       - id: markdownlint
         name: check markdown
@@ -21,7 +21,7 @@ repos:
       - id: yamllint
         name: check yaml
   - repo: https://github.com/alessandrojcm/commitlint-pre-commit-hook
-    rev: v9.16.0
+    rev: v9.18.0
     hooks:
       - id: commitlint
         name: check commit message
